@@ -1,16 +1,20 @@
-# 🚀 LeetCode Solutions
-
 <div align="center">
 
-# 💻 My LeetCode Journey
+# 🚀 LeetCode Solutions
 
-*"Consistency beats intensity. One problem at a time."*
+### Documenting my DSA Journey • One Problem at a Time
 
-![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)
-![Language](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Repository](https://img.shields.io/github/repo-size/shreyass0709/LeetCode-Solutions?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/shreyass0709/LeetCode-Solutions?style=for-the-badge)
+<p>
+<a href="https://github.com/sujan5s">
+<img src="https://img.shields.io/badge/GitHub-sujan5s-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://leetcode.com/u/sujan5s/">
+<img src="https://img.shields.io/badge/LeetCode-sujan5s-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
+</p>
+
+![](https://komarev.com/ghpvc/?username=sujan5s&style=for-the-badge&color=blue)
 
 </div>
 
@@ -18,186 +22,145 @@
 
 # 📖 About
 
-Welcome to my **LeetCode Solutions Repository**!
+Welcome to my LeetCode Solutions Repository.
 
-This repository serves as my personal archive of LeetCode solutions, where I consistently solve Data Structures and Algorithms (DSA) problems to strengthen my problem-solving skills and prepare for technical interviews.
+This repository is a collection of all the LeetCode problems I solve while preparing for Software Engineering interviews and strengthening my Data Structures & Algorithms skills.
 
-Each solution is written with:
-
-- ✅ Clean and readable code
-- ⚡ Optimized approaches whenever possible
-- 📝 Proper file organization
-- 🚀 Continuous improvement
+Every accepted solution is stored here with clean, readable, and optimized C++ code.
 
 ---
 
-# 🎯 Why This Repository?
+# 🎯 Objectives
 
-- 📚 Document my coding journey
-- 💻 Practice Data Structures & Algorithms
-- 🧠 Improve logical thinking
-- 🎯 Prepare for Coding Interviews
-- 📈 Track my consistency
-- 🚀 Learn multiple approaches for each problem
+- 📚 Practice DSA consistently
+- 💻 Prepare for Technical Interviews
+- 🚀 Improve Problem Solving
+- 📈 Track my progress
+- 🔥 Maintain consistency
+- ⚡ Learn optimized approaches
 
 ---
 
-# 🛠️ Language
+# 💻 Primary Language
 
-| Language | Status |
-|----------|--------|
-| C++ | ✅ Primary Language |
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sujan5s&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujan5s&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sujan5s&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🧠 LeetCode Statistics
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/sujan5s?theme=dark&font=Nunito&ext=contest"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujan5s&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sujan5s&theme=tokyonight&margin-w=15&no-frame=true&column=4"/>
+
+</p>
 
 ---
 
 # 📂 Repository Structure
 
-```
+```text
 LeetCode-Solutions
 │
 ├── Arrays
-│   ├── 001 - Two Sum.cpp
-│   ├── 026 - Remove Duplicates.cpp
-│   └── ...
-│
 ├── Strings
-│   ├── 003 - Longest Substring.cpp
-│   └── ...
-│
 ├── Linked List
-│   ├── 141 - Linked List Cycle.cpp
-│   ├── 142 - Linked List Cycle II.cpp
-│   └── ...
-│
 ├── Stack
 ├── Queue
 ├── Hashing
-├── Trees
-├── Binary Search Tree
 ├── Binary Search
-├── Graph
+├── Trees
+├── BST
 ├── Heap
-├── Dynamic Programming
+├── Graph
 ├── Greedy
+├── Dynamic Programming
 ├── Sliding Window
 ├── Prefix Sum
-├── Bit Manipulation
-├── Backtracking
-├── Trie
-├── Math
+├── Two Pointer
 ├── Recursion
+├── Backtracking
+├── Bit Manipulation
+├── Math
 └── README.md
 ```
 
 ---
 
-# 📋 Naming Convention
+# 📝 Solution Format
 
-Every solution follows the format:
+Every solution follows this naming convention.
 
-```
+```text
 Problem Number - Problem Name.cpp
 ```
 
 Example
 
-```
+```text
 001 - Two Sum.cpp
 141 - Linked List Cycle.cpp
 206 - Reverse Linked List.cpp
 102 - Binary Tree Level Order Traversal.cpp
 ```
 
----
+Each file contains
 
-# 📊 Progress Tracker
-
-| Difficulty | Solved |
-|------------|:------:|
-| 🟢 Easy | 0 |
-| 🟡 Medium | 0 |
-| 🔴 Hard | 0 |
-| **Total** | **0** |
-
-> Update these numbers as you solve more problems.
-
----
-
-# 🧩 Topics Covered
-
-- ✅ Arrays
-- ✅ Strings
-- ✅ Linked Lists
-- ✅ Stack
-- ✅ Queue
-- ✅ Hashing
-- ✅ Trees
-- ✅ Binary Search Trees
-- ✅ Binary Search
-- ✅ Heap
-- ✅ Graphs
-- ✅ Dynamic Programming
-- ✅ Greedy
-- ✅ Sliding Window
-- ✅ Prefix Sum
-- ✅ Two Pointers
-- ✅ Bit Manipulation
-- ✅ Backtracking
-- ✅ Recursion
-- ✅ Trie
-- ✅ Math
-
----
-
-# ⚡ Solution Format
-
-Each solution contains:
-
-- Problem Number
-- Problem Name
-- Optimized Code
+- Optimized Solution
 - Time Complexity
 - Space Complexity
-
-Example:
-
-```cpp
-/*
-Problem: 141. Linked List Cycle
-
-Approach:
-- Floyd's Cycle Detection Algorithm
-
-Time Complexity: O(n)
-
-Space Complexity: O(1)
-*/
-
-class Solution {
-public:
-    bool hasCycle(ListNode *head) {
-
-    }
-};
-```
+- Comments (when necessary)
 
 ---
 
-# 🏆 Goals
+# 🚀 Workflow
 
-- Solve 500+ LeetCode Problems
-- Master every major DSA topic
-- Improve coding speed
-- Prepare for Software Engineering Interviews
-- Learn optimal solutions
-- Maintain daily consistency
-
----
-
-# 📈 Repository Workflow
-
-```
-Choose Problem
+```text
+Select Problem
       │
       ▼
 Understand Problem
@@ -209,7 +172,7 @@ Brute Force
 Optimize
       │
       ▼
-Code in C++
+Implement
       │
       ▼
 Test
@@ -223,37 +186,46 @@ Repeat 🔁
 
 ---
 
-# 🌟 Motivation
+# 📚 Topics Covered
 
-> "Success is the sum of small efforts, repeated day in and day out."
-
-Every solved problem represents one step closer to becoming a better software engineer.
+- Arrays
+- Strings
+- Linked List
+- Stack
+- Queue
+- Hashing
+- Binary Search
+- Trees
+- Heap
+- Graph
+- Greedy
+- Dynamic Programming
+- Sliding Window
+- Prefix Sum
+- Two Pointer
+- Recursion
+- Backtracking
+- Bit Manipulation
+- Math
 
 ---
 
-# 🤝 Contributions
+# 🌟 Quote
 
-This repository is primarily for documenting my own learning journey.
-
-If you discover a more efficient solution or a better approach, feel free to:
-
-- ⭐ Star this repository
-- 🍴 Fork the repository
-- 🛠️ Open a Pull Request
-- 💬 Share your suggestions
+> **"Success is the sum of small efforts, repeated day in and day out."**
 
 ---
 
-# 📬 Connect With Me
+# 🤝 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/shreyass0709">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<a href="https://github.com/sujan5s">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+<a href="https://leetcode.com/u/sujan5s/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="55"/>
 </a>
 
 </p>
@@ -262,10 +234,8 @@ If you discover a more efficient solution or a better approach, feel free to:
 
 <div align="center">
 
-### ⭐ If you find this repository helpful, consider giving it a Star!
+## ⭐ If you like this repository, consider giving it a Star!
 
-### 🚀 Happy Coding & Keep Grinding!
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
+### Happy Coding 🚀
 
 </div>
