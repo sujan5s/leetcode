@@ -22,6 +22,9 @@ public:
             temp=temp->next;
         }
         k = k %n;
+        if(k==0){
+            return head;
+        }
         while(cnt != k){
             ListNode* temp = head;
             ListNode* nextNode = NULL;
